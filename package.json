@@ -1,7 +1,6 @@
 {
     "name": "motas",
     "version": "0.0.1",
-    "private": false,
     "license": "MIT",
     "main": "lib/src/index.js",
     "directories": {
