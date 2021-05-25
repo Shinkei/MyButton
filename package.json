@@ -2,7 +2,8 @@
     "name": "@shinkei/mybutton",
     "version": "0.0.1",
     "license": "MIT",
-    "main": "lib/src/index.js",
+    "main": "lib/index.js",
+    "types": "lib/index.d.ts",
     "directories": {
         "lib": "lib"
     },
