@@ -1,5 +1,5 @@
 {
-    "name": "motas",
+    "name": "@shinkei/mybutton",
     "version": "0.0.1",
     "license": "MIT",
     "main": "lib/src/index.js",
